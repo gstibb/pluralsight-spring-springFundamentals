@@ -5,6 +5,13 @@
   <version>0.0.1-SNAPSHOT</version>
   <description>First project of Spring Fundamentals.</description>
   
+  <dependencies>
+  	<dependency>
+  		<groupId>org.springframework</groupId>
+  		<artifactId>spring-context</artifactId>
+  		<version>5.1.3.RELEASE</version>
+  	</dependency>
+  </dependencies>
   <build>
   	<plugins>
   		<plugin>
